@@ -1,0 +1,26 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body
+/*脳背景*/{
+	background-image: url( "無題342_20191204014255.PNG");
+	margin: 0px;
+	padding: 0px;
+	height: auto;
+	width: auto;
+	background-size: contain;
+	background-position: center;
+	background-attachment: fixed;}
+
+.yazirusi{
+				 position: fixed;
+				margin-left: 580px;
+				top: -40px;
+			}
+
+
+.toumei{
+				 position: fixed;
+				margin-left: 580px;
+				top: 280px;
+			}

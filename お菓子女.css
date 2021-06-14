@@ -1,0 +1,29 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body
+/*脳背景*/{
+	background-image: url("お菓子でか最初.gif");
+	margin: 0px;
+	padding: 0px;
+	height: auto;
+	width: auto;
+	background-size: contain;
+	background-position: center;
+	background-attachment: fixed;}
+
+
+
+
+.yazirusi{
+				 position: fixed;
+				margin-left: 520px;
+				top: 570px;
+			}
+
+
+.toumei{
+				 position: fixed;
+				margin-left: 440px;
+				top: 590px;
+			}

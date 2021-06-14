@@ -1,0 +1,27 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body
+/*脳背景*/{
+	background-image: url("ロマン動く最初.gif");
+	margin: 0px;
+	padding: 0px;
+	height: auto;
+	width: auto;
+	background-size: contain;
+	background-position: center;
+	background-attachment: fixed;}
+
+
+.yazirusi{
+				 position: fixed;
+				margin-left: 400px;
+				top: 170px;
+			}
+
+
+.toumei{
+				 position: fixed;
+				margin-left: 400px;
+				top: 550px;
+			}

@@ -1,0 +1,34 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body
+/*脳背景*/{
+	background-image: url("買い物動く最初.gif");
+	margin: 0px;
+	padding: 0px;
+	height: auto;
+	width: auto;
+	background-size: contain;
+	background-position: center;
+	background-attachment: fixed;}
+
+
+
+.yazirusi{
+				 position: fixed;
+				margin-left: 600px;
+				top: 250px;
+			}
+
+
+.toumei{
+				 position: fixed;
+				margin-left: 600px;
+				top: 720px;
+			}
+
+.toumei2{
+				 position: fixed;
+				margin-left: 380px;
+				top: 760px;
+			}
